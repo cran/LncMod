@@ -1,0 +1,13 @@
+9bf4b1afd0b68ceb902c01b2b356942d *DESCRIPTION
+44ef71343866573ac7852893e19bdd74 *NAMESPACE
+f8a96610009f2b9c39bb3032eabae44c *R/tri.app.R
+5705ebb3af295457c52bdcf5785dafd5 *R/tri.basic.R
+442b42a60db9ff785ba9374cad334ee5 *R/tri.enrich.R
+b9dab80e878d42d48f76207e679eae5c *R/tri.surv.R
+b8667d2c08e2498541c63f490144e5e1 *data/datatests.rda
+5987fe0bee1f248ace905c69048293ed *man/LncMod-package.Rd
+1d6a2d81e4442028595a5b794dc3ac3e *man/datatests.Rd
+8f77d50e5cb91dc8f4313859aaf7acb6 *man/tri.app.Rd
+6e5ae1f9dda6911766625e3959d46ddd *man/tri.basic.Rd
+f7b5f543a7c947fe5d2c520cc8e5d381 *man/tri.enrich.Rd
+38cb0bc1c0b4a2b42f2c3a0c8f0c9c66 *man/tri.surv.Rd

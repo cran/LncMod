@@ -1,0 +1,4 @@
+importFrom(survival, coxph, survfit, survdiff,Surv)
+importFrom(pheatmap,pheatmap)
+importFrom(parallel,mclapply)
+exportPattern("^[[:alpha:]]+")
